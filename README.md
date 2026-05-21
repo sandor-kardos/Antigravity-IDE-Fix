@@ -50,4 +50,5 @@ Once the fix is applied and your classic Antigravity IDE is launching correctly,
 5. Restart the IDE to apply your restored environment.
 
 ---
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7463179361693900800)
 [Visit Project Origin](https://github.com/sandor-kardos/Antigravity-IDE-Fix) | Developed by [Sandor Kardos](https://sandorkardos.com)
