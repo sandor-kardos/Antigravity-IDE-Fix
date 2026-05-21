@@ -1,4 +1,4 @@
-# Antigravity IDE Fix (IDEBACK)
+# Antigravity IDE Fix (AntiGraviFIX)
 
 A lightweight, native workspace utility script designed to resolve a critical application deployment clash on Windows, where the agent-first "Antigravity 2.0" framework overrides the traditional "Antigravity IDE".
 
